@@ -1,0 +1,13 @@
+{
+  "name": "ecommerece",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "http-status": "^1.2.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "path": "^0.12.7",
+    "sequelize": "^4.38.0",
+    "xpress": "^2.4.6"
+  }
+}
